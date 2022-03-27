@@ -1,0 +1,20 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "TypeScript Beginner Course",
+  "main": "app.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshgawade09/understanding-ts.git"
+  },
+  "keywords": [],
+  "author": "Akshay Gawade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshgawade09/understanding-ts/issues"
+  },
+  "homepage": "https://github.com/akshgawade09/understanding-ts#readme"
+}
